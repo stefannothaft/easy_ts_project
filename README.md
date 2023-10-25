@@ -1,6 +1,8 @@
 # easy_ts_project
 How to create an easy project to try some code in TypeScript. Like in ABAP a "Z-Report" :-)
 
+You can find the demo code in file demo.ts.
+
 ## Steps to reproduce
 1. Create the package.json
     ```shell
